@@ -1,3 +1,7 @@
 //html//body {
   background: black;
 }
+
+//html//body//div[@class='foo'] {
+  background: black;
+}
